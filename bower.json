@@ -1,0 +1,17 @@
+{
+  "name": "wp-starter-theme",
+  "version": "0.0.1",
+  "homepage": "https://github.com/louisdalligos/WordPress-Kickstarter-Theme",
+  "authors": [
+    "louisdalligos <zindex14@gmail.com>"
+  ],
+  "description": "Package dependencies",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
